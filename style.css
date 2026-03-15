@@ -1,0 +1,30 @@
+h2 {
+    font-family: Arial;
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+ol {
+    font-family: monospace;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+button {
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 7px 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+}
+
+ul {
+    font-family: monospace;
+    font-size: 22px;
+    font-weight: 500;
+}
